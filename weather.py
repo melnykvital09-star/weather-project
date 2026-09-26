@@ -2,7 +2,7 @@ def average_temperature(temperatures):
     return sum(temperatures) / len(temperatures)
 
 
-def reiny_days(precipitation):
+def rainy_days(precipitation):
     return sum(1 for value in precipitation if value > 0)
 
 
