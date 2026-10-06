@@ -23,4 +23,4 @@
 Для запуску програми потрібно виконати:
 
 '''bash
-pyton main.py
+pyton main.py'''
