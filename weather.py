@@ -16,3 +16,7 @@ def coldest_day(temperatures):
 
 def temperature_range(temperatures):
     return max(temperatures) - min(temperatures)
+
+
+def average_precipitation(precipitation):
+    return sum(precipitation) / len(precipitation)
