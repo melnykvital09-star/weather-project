@@ -24,3 +24,7 @@
 
 '''bash
 pyton main.py
+
+## Версія 1.0
+
+Проєкт підключено до Git та GitHub.
